@@ -1,0 +1,43 @@
+.rwmb-field.rwmb-image_select-wrapper.custom-header .rwmb-image-select {
+    width: 48%;
+    height: 100%;
+}
+
+.rwmb-field.rwmb-image_select-wrapper.custom-footer .rwmb-image-select {
+    width: 494px;
+    height: 130px;
+}
+
+.edit-post-layout .interface-interface-skeleton__content {
+    background: #f4f4f4;
+}
+
+.rwmb-default .postbox-header {
+    background: #f4f4f4;
+}
+
+.rwmb-default .postbox-header h2,
+.rwmb-default .postbox-header .order-higher-indicator,
+.rwmb-default .postbox-header .order-lower-indicator,
+.rwmb-default .postbox-header .toggle-indicator {
+    color: #222!important;
+}
+
+.redux-container .form-table>tbody>tr>th {
+    width: 18%;
+}
+
+.redux-container-image_select ul.redux-image-select li {
+    padding-right: 4px;
+}
+
+.redux-container-image_select .redux-image-select img,
+.redux-container-image_select .redux-image-select-selected img,
+.redux-container-image_select .redux-image-select .tiles,
+.redux-container-image_select .redux-image-select-selected .tiles {
+    border-width: 2px;
+}
+.edit-post-layout__metaboxes{
+    padding-bottom: 50px!important;
+    position: relative;
+}
